@@ -4,7 +4,7 @@
 package sef.module3.activity;
 
 /**
- * @author 
+ * @author Tatjana
  *
  */
 public class FindInArray {
@@ -18,7 +18,8 @@ public class FindInArray {
 		int[] nums = {100, 1, 4, 15};
 		
 		int result = nums[0];
-		
+
+		/**
 		// Find smallest in an array
 		for (int i = 1; i < nums.length; i++) {
 			if (nums[i] < result) {
@@ -28,10 +29,13 @@ public class FindInArray {
 		System.out.println("Smallest in array is "+result);
 		
 		result = nums[0];
-		
+		*/
+
 		// Find largest in an array
-		for (int i = 1; i < nums.length; i++) {
-			// complete the code
+		for (int i = 100; i < nums.length; i--) {
+			if (nums[i] < result) {
+				result = nums[i];
+			}
 		}
 		System.out.println("Largest in array is "+result);
 

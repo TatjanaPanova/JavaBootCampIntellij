@@ -3,8 +3,10 @@
  */
 package sef.module3.activity;
 
+import sef.module3.sample.MethodSample;
+
 /**
- * @author 
+ * @author Tatjana
  *
  */
 public class NumToWordsUsingMethod {
@@ -14,7 +16,13 @@ public class NumToWordsUsingMethod {
 		 */
 		public static void main(String[] args) {
 			// complete the code to print text value of 8, 9 and 10
+			int [8; 8; 10]
 
+			int x = 8;
+			while (x <= 10) {
+				do printMyWord(int i);
+				x++;
+			}
 		}
 
 		private static void printMyWord(int i) {
@@ -44,7 +52,7 @@ public class NumToWordsUsingMethod {
 				numText = "NUMBER " + i;
 			}
 			System.out.println(numText);
-			
+
 		}
 
 

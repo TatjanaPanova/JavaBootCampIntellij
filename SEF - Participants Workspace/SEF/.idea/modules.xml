@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/JavaBootCampIntellij.iml" filepath="$PROJECT_DIR$/JavaBootCampIntellij.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SEF.iml" filepath="$PROJECT_DIR$/SEF.iml" />
     </modules>
   </component>
 </project>

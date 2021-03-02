@@ -4,7 +4,7 @@
 package sef.module3.activity;
 
 /**
- * @author 
+ * @author Tatjana
  *
  */
 public class NumToWords {
@@ -14,9 +14,8 @@ public class NumToWords {
 	 */
 	public static void main(String[] args) {
 		
-		
-				
-		int i = 8;
+
+		int i = 5;
 		String numText = "";
 
 		switch(i) {

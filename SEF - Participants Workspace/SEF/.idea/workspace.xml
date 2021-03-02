@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c79b4ad3-5050-4f1c-95de-2629daf4c9e2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.idea/description.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/project-template.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../JavaBootCampIntellij.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SEF.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sef/module3/sample/CastingSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sef/module3/sample/MainSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sef/module3/sample/MultiDimensionalArraySample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sef/module3/sample/WhileLoopSample.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/sef/module4/activity/DateActivity1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../out/production/JavaBootCampIntellij/src/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../src/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module10/activity/AlbhabetNumberTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module10/activity/AlphaGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module10/activity/Generator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module10/activity/NumGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module10/sample/AnnoyedDriver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module10/sample/AnnoyingPassenger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module10/sample/Driver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module10/sample/MultiThreadSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module10/sample/MultiThreadWorker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module10/sample/MyThread.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module10/sample/MyThread1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module10/sample/MyThread1Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module10/sample/MyThreadClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module10/sample/Passenger.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module10/sample/PollingSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module10/sample/SingleThreadSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module10/sample/SingleThreadWorker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module10/sample/Sync.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module10/sample/SyncClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module10/sample/ThreadPriority.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module10/sample/ThreadPriority2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module10/sample/ThreadPriorityClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module10/sample/WaitNotifySample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module11/activity/ConsoleToFileActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module11/sample/ConsoleToFileSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module11/sample/FileReadSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module11/sample/FileTestSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module11/sample/FileWriteSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module11/sample/KeyboardInputSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module11/sample/ObjectReaderSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module11/sample/ObjectWriterSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module11/sample/ScannerInputSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module11/sample/TestFile.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module12/activity/ClientActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module12/activity/ServerActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module12/sample/ClientSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module12/sample/InetAddressSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module12/sample/ServerSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module12/sample/URLSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module13/activity/Account.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module13/activity/AccountDAO.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module13/activity/AccountDAOClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module13/activity/AccountDAOException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module13/activity/AccountDAOImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module13/activity/AccountImpl.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module13/activity/SEF Activity.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module13/sample/ConnectionSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module13/sample/DeleteSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module13/sample/InsertSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module13/sample/PreparedStatementSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module13/sample/StatementSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module13/sample/UpdateSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/activity/Animal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/activity/AnimalClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/activity/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/activity/CalculatorClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/activity/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/activity/Dog.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/sample/AnnotationsSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/sample/AutoBoxingSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/sample/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/sample/EmployeeGenerics.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/sample/EnhancedForLoop.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/sample/EnumBasic$Seasons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/sample/EnumBasic.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/sample/EnumSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/sample/FindMyTask.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/sample/GenericSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/sample/OuterClassSample$InnerClass.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/sample/OuterClassSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/sample/Seasons.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/sample/StaticImportSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/sample/Task.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/sample/UpperBound.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/sample/VarArgsSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module14/sample/WildCardSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module15/sample/Samples.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module15/sample/Samples.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module15/sample/SystemIdentifierDTD.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module15/sample/classlist.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module15/sample/classroom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module15/sample/example.dtd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module15/sample/person.xsd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module15/sample/person_DTD.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module15/sample/person_XSD.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module15/sample/quote.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module17/activity/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module17/activity/EmployeeJDBC.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module17/activity/EmployeeJDBCTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module17/activity/Module 17 Activity - Test Scenarios and Conditions.xls" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module17/sample/MyCalTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module17/sample/MyCalculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module17/sample/MyCalculatorTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module17/sample/Product.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module17/sample/ProductTests.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module19/sample/AdapterClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module19/sample/AdapterInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module19/sample/AdapterSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module19/sample/FactorySample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module19/sample/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module19/sample/SingletonRecommended$SingletonHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module19/sample/SingletonRecommended.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module19/sample/SingltetonSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module19/sample/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module19/sample/WorkerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module19/sample/WorkerImplA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module19/sample/WorkerImplB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module19/sample/WorkerTypeA_Adapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module19/sample/WorkerTypeB_Adapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module3/activity/AddWholeNum.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module3/activity/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module3/activity/FindInArray.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module3/activity/FindLargest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module3/activity/MultiplicationTable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module3/activity/NumToWords.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module3/activity/NumToWordsUsingMethod.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module3/activity/OperatorActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module3/activity/PrintNumWithWhile.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module3/activity/VariableAssignmentActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module3/sample/CastingSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module3/sample/MainSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module3/sample/MethodSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module3/sample/MultiDimensionalArraySample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module3/sample/WhileLoopSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module4/activity/Calculator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module4/activity/CalculatorClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module4/activity/DateActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module4/activity/datastruc.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module4/sample/ClassInstanceSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module4/sample/FinalizeSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module4/sample/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module4/sample/StaticSample1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module4/sample/StaticSample2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module5/sample/AdapterClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module5/sample/AdapterInterface.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module5/sample/AdapterSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module5/sample/FactorySample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module5/sample/Singleton.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module5/sample/SingletonRecommended$SingletonHolder.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module5/sample/SingletonRecommended.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module5/sample/SingltetonSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module5/sample/Worker.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module5/sample/WorkerFactory.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module5/sample/WorkerImplA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module5/sample/WorkerImplB.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module5/sample/WorkerTypeA_Adapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module5/sample/WorkerTypeB_Adapter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module6/activity/Employee_I.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module6/activity/InheritanceActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module6/activity/Person_I.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module6/activity/Shape.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/AbstractionSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/Bird.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/Employee_A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/InheritanceSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/InterfaceSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/Lion.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/Moveable.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/Person_A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/Person_I.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/Person_P.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/PolymorphismSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/ReferenceCastingSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/Student_A.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/Student_I.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/Student_P.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module6/sample/VirtualMethodSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module7/sample/General.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module7/sample/PersonSampleOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module7/sample/PersonSampleTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module7/sample/SetterGetterSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module7/sample/Strategy.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module7/sample/StrategyImplOne.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module7/sample/StrategyImplThree.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module7/sample/StrategyImplTwo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module7/sample/StrategySample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/activity/ArithmeticExceptionActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/activity/CustomExceptionActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/activity/CustomExceptionActivityTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/activity/ExceptionSequenceActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/activity/SQLExceptionActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/activity/TryCatchFinallyActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/sample/ArrayExceptionSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/sample/AssertSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/sample/CheckedExceptionSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/sample/CustomException.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/sample/CustomExceptionSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/sample/ErrorSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/sample/ExceptionDeclarationSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module8/sample/TryCatchFinallySample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module9/activity/ListActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module9/activity/ListActivityTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module9/activity/ListActivityTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module9/activity/MapActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module9/activity/SetActivity.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module9/sample/AgeComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module9/sample/Employee.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module9/sample/JavaComparatorExample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module9/sample/ListSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module9/sample/MapSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module9/sample/NameComparator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module9/sample/QueueSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module9/sample/SetSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module9/sample/test/ListActivityTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/bin/sef/module9/sample/test/ListActivityTest2.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module2/sample/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module2/sample/HelloWorld.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module3/activity/AddWholeNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module3/activity/AddWholeNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module3/activity/FindInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module3/activity/FindInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module3/activity/FindLargest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module3/activity/FindLargest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module3/activity/MultiplicationTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module3/activity/MultiplicationTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module3/activity/NumToWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module3/activity/NumToWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module3/activity/NumToWordsUsingMethod.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module3/activity/NumToWordsUsingMethod.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module3/activity/OperatorActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module3/activity/OperatorActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module3/activity/PrintNumWithWhile.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module3/activity/PrintNumWithWhile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/sef/module3/activity/VariableAssignmentActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/sef/module3/activity/VariableAssignmentActivity.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectId" id="1pCHhvwqJghNHMr3m7y3cQX0EIc" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/sef/module3/activity/FindInArray.java" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.excludes" />
+  </component>
+  <component name="RunManager" selected="Application.NumToWordsUsingMethod">
+    <configuration name="AddWholeNum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sef.module3.activity.AddWholeNum" />
+      <module name="SEF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sef.module3.activity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FindInArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sef.module3.activity.FindInArray" />
+      <module name="SEF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sef.module3.activity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MultiplicationTable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sef.module3.activity.MultiplicationTable" />
+      <module name="SEF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sef.module3.activity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumToWordsUsingMethod" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sef.module3.activity.NumToWordsUsingMethod" />
+      <module name="SEF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sef.module3.activity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PrintNumWithWhile" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sef.module3.activity.PrintNumWithWhile" />
+      <module name="SEF" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="sef.module3.activity.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.NumToWordsUsingMethod" />
+        <item itemvalue="Application.FindInArray" />
+        <item itemvalue="Application.PrintNumWithWhile" />
+        <item itemvalue="Application.MultiplicationTable" />
+        <item itemvalue="Application.AddWholeNum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c79b4ad3-5050-4f1c-95de-2629daf4c9e2" name="Default Changelist" comment="" />
+      <created>1614680275525</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1614680275525</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
