@@ -18,9 +18,13 @@ void catchMeIfYouCan()
 		System.out.println(arr[i]);
 	}
 	
+	try{
+
+	} catch (Exception ex){
+		System.out.println("This should get printed even if there is an exception");
+	}
 	
-	
-	System.out.println("This should get printed even if there is an exception");
+
 	
 }
 
