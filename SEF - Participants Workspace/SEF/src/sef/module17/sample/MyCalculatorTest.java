@@ -86,7 +86,7 @@ public class MyCalculatorTest extends TestCase {
 
 		double a = 10;	double b = 5;		
 		//	Checks if b is lesser than a
-		assertEquals(2, (theCalculator.getQuotient(a,b)),0);		
+		assertEquals(2, (theCalculator.getQuotient(a,b)),0);
 		//	Checks if b is greater than a
 		assertEquals(0.5, (theCalculator.getQuotient(b,a)),0);
 
