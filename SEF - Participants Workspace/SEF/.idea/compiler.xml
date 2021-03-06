@@ -2,6 +2,8 @@
 <project version="4">
   <component name="CompilerConfiguration">
     <excludeFromCompile>
+      <directory url="file://$PROJECT_DIR$/src/sef/module2" includeSubdirectories="true" />
+      <directory url="file://$PROJECT_DIR$/src/sef/module3" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/src/sef/module4" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/src/sef/module5" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/src/sef/module6" includeSubdirectories="true" />
@@ -16,16 +18,6 @@
       <directory url="file://$PROJECT_DIR$/src/sef/module15" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/src/sef/module17" includeSubdirectories="true" />
       <directory url="file://$PROJECT_DIR$/src/sef/module19" includeSubdirectories="true" />
-      <directory url="file://$PROJECT_DIR$/src/sef/module2" includeSubdirectories="true" />
-      <file url="file://$PROJECT_DIR$/src/sef/module3/activity/VariableAssignmentActivity.java" />
-      <file url="file://$PROJECT_DIR$/src/sef/module3/activity/Calculator.java" />
-      <file url="file://$PROJECT_DIR$/src/sef/module3/activity/OperatorActivity.java" />
-      <file url="file://$PROJECT_DIR$/src/sef/module3/activity/FindLargest.java" />
-      <file url="file://$PROJECT_DIR$/src/sef/module3/activity/NumToWords.java" />
-      <file url="file://$PROJECT_DIR$/src/sef/module3/activity/AddWholeNum.java" />
-      <file url="file://$PROJECT_DIR$/src/sef/module3/activity/MultiplicationTable.java" />
-      <file url="file://$PROJECT_DIR$/src/sef/module3/activity/PrintNumWithWhile.java" />
-      <file url="file://$PROJECT_DIR$/src/sef/module3/activity/FindInArray.java" />
     </excludeFromCompile>
     <bytecodeTargetLevel target="15" />
   </component>
